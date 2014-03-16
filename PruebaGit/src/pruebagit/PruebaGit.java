@@ -17,7 +17,7 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //realizo varios commit y otro
+        //realizo varios commit y otro cambio para crear conflicto
     }
     
 }
